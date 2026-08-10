@@ -1,10 +1,4 @@
-====================================================
-Project: DEMON71 Website
-Developer: Tarikur Rahman
-GitHub: https://github.com/tarikurrahman
-====================================================
-
-# DEMON71 Website 🚀
+# Team DEMON71 Beta Website 🚀
 
 ## Project Overview
 
