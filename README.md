@@ -1,7 +1,7 @@
 ====================================================
 Project: DEMON71 Website
 Developer: Tarikur Rahman
-GitHub: https://github.com/tarikurrahmanbd
+GitHub: https://github.com/tarikurrahman
 ====================================================
 
 # DEMON71 Website 🚀
@@ -147,8 +147,8 @@ npm run start
 
 **Tarikur Rahman** is a software developer building modern web experiences with strong design, responsive layouts, and polished interactions.
 
-- GitHub: https://github.com/tarikurrahmanbd
-- Portfolio: https://yourtarikur.netlify.app/
+- GitHub: https://github.com/tarikurrahman
+- Portfolio: https://yourtarikur.vercel.app/
 - Social Handle: `tarikurrahman08`
 - Email: tarikurrahman2008@gmail.com
 
