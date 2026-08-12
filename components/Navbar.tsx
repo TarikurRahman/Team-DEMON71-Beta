@@ -52,7 +52,7 @@ export default function Navbar() {
 
           <div className="flex items-center gap-3">
             <Link
-              href="#contact"
+              href="/contact"
               className="hidden md:inline-flex items-center justify-center rounded-md bg-[#a81e16] px-4 py-2 text-white transition-colors duration-200 hover:bg-[#de4030]"
             >
               {nav.getInTouch}
