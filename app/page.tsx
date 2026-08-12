@@ -1,5 +1,6 @@
 "use client";
 
+import type { Metadata } from "next";
 import React from "react";
 import Navbar from "@/components/Navbar";
 import Preloader from "@/components/Preloader";
@@ -12,6 +13,12 @@ import { FaExternalLinkAlt, FaEnvelope, FaLinkedin, FaFacebook, FaGlobe } from "
 
 
 const BRAND_GRADIENT = "bg-clip-text text-transparent bg-gradient-to-r from-[#a81e16] to-[#de4030]";
+
+export const metadata: Metadata = {
+  verification: {
+    google: '<meta name="google-site-verification" content="PpYzYYnPqcuRPaarexbZqtGXIZRov7UHxn12qzvIwR4" />',
+  },
+};
 
 export default function Home() {
   const { theme, language } = useApp();
