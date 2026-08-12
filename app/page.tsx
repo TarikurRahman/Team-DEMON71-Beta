@@ -3,7 +3,7 @@ import HomeClient from "./HomeClient";
 
 export const metadata: Metadata = {
   verification: {
-    google: '<meta name="google-site-verification" content="PpYzYYnPqcuRPaarexbZqtGXIZRov7UHxn12qzvIwR4" />',
+    google: "PpYzYYnPqcuRPaarexbZqtGXIZRov7UHxn12qzvIwR4",
   },
 };
 
