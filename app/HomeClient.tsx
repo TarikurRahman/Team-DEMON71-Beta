@@ -19,12 +19,6 @@ export default function HomeClient() {
   const textColor = theme === "light" ? "text-[#1e293b]" : "text-white";
   const cardBorder = theme === "light" ? "border-[#1e293b]/10" : "border-white/10";
 
-  const profiles = [
-    { name: "Rashed Khan", role: "Lead Engineer" },
-    { name: "Shaila Sultana", role: "Systems" },
-    { name: "Arif Rahman", role: "Controls" },
-    { name: "Nabila Akter", role: "Comms" },
-  ];
 
   return (
     <div className={`${language === "bn" ? "font-bangla" : ""} ${theme === "dark" ? "dark" : ""} bg-white text-[#1e293b] dark:bg-black dark:text-white`}>
