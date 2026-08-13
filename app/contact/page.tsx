@@ -112,14 +112,14 @@ export default function ContactPage() {
                   <Phone className="w-4 h-4 mt-0.5 flex-shrink-0 text-white" />
                   <div>
                     <span className="font-bold block text-xs uppercase opacity-75 mb-0.5">Call Us</span>
-                    +880 1980-827568
+                    +880 1819-986598
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <Mail className="w-4 h-4 mt-0.5 flex-shrink-0 text-white" />
                   <div>
                     <span className="font-bold block text-xs uppercase opacity-75 mb-0.5">Email Us</span>
-                    contact@teamzenithruet.info
+                    teamdemon71bd@gmail.com
                   </div>
                 </div>
               </div>
@@ -129,13 +129,13 @@ export default function ContactPage() {
             <div className="mt-12">
               <span className="block text-xs font-bold uppercase opacity-75 tracking-wider mb-3">Follow Us</span>
               <div className="flex items-center gap-3">
-                <a href="#" className="w-8 h-8 rounded-full bg-white/10 hover:bg-white text-white hover:text-[#de4030] flex items-center justify-center transition-all duration-300">
+                <a href="https://www.facebook.com/teamdemon71" className="w-8 h-8 rounded-full bg-white/10 hover:bg-white text-white hover:text-[#de4030] flex items-center justify-center transition-all duration-300">
                   <FacebookIcon className="w-4 h-4" />
                 </a>
-                <a href="#" className="w-8 h-8 rounded-full bg-white/10 hover:bg-white text-white hover:text-[#de4030] flex items-center justify-center transition-all duration-300">
+                <a href="https://www.linkedin.com/in/tarikurrahman08/" className="w-8 h-8 rounded-full bg-white/10 hover:bg-white text-white hover:text-[#de4030] flex items-center justify-center transition-all duration-300">
                   <LinkedinIcon className="w-4 h-4" />
                 </a>
-                <a href="#" className="w-8 h-8 rounded-full bg-white/10 hover:bg-white text-white hover:text-[#de4030] flex items-center justify-center transition-all duration-300">
+                <a href="https://github.com/TarikurRahman" className="w-8 h-8 rounded-full bg-white/10 hover:bg-white text-white hover:text-[#de4030] flex items-center justify-center transition-all duration-300">
                   <GithubIcon className="w-4 h-4" />
                 </a>
               </div>
