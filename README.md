@@ -4,6 +4,22 @@
 
 DEMON71 Website is a responsive portfolio and team showcase site for Team DEMON71, a student robotics initiative focused on defense-grade rover systems, automation, and advanced engineering. The site is built using Next.js with modern UI components, polished brand styling, multilingual support, and a mobile-first layout.
 
+<!-- Website Full Preview -->
+<div align="center">
+
+  ## 🖥️ Live Preview
+
+  <a href="https://teamdemon71.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_VISIT_LIVE_SITE-teamdemon71.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Live Site" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://teamdemon71.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/67837b88-3c50-437e-b230-5606bcc30156" alt="TEAM DEMON71 Website Preview" width="100%" />
+  </a>
+
+</div>
 ---
 
 ## 🔥 Features
