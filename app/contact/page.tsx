@@ -73,7 +73,7 @@ export default function ContactPage() {
             </div>
             <h3 className="text-white font-bold text-lg tracking-wide mb-2">Phone</h3>
             <p className="text-zinc-400 text-sm leading-relaxed mt-2">
-              +880 1980-827568
+              +880 1819-986598
             </p>
           </div>
 
@@ -83,8 +83,8 @@ export default function ContactPage() {
               <Mail className="w-5 h-5" />
             </div>
             <h3 className="text-white font-bold text-lg tracking-wide mb-2">Email</h3>
-            <a href="mailto:contact@teamzenithruet.info" className="text-[#de4030] hover:underline text-sm leading-relaxed break-all mt-2">
-              contact@teamzenithruet.info
+            <a href="mailto:teamdemon71bd@gmail.com" className="text-[#de4030] hover:underline text-sm leading-relaxed break-all mt-2">
+              teamdemon71bd@gmail.com
             </a>
           </div>
         </div>
