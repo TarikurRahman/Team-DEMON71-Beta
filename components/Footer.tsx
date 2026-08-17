@@ -115,7 +115,7 @@ export default function Footer() {
       <div className="max-w-[1200px] mx-auto border-t border-zinc-900 pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-zinc-600">
         <p>© {currentYear} Team DEMON71. All rights reserved.</p>
         <p className="flex items-center gap-1">
-          Designed & Developed by <a href="https://yourtarikur.netlify.app" target="_blank" rel="noopener noreferrer" className="text-zinc-300 font-medium hover:text-[#de4030] transition-colors duration-200">Tarikur Rahman</a>
+          Designed & Developed by <a href="https://yourtarikur.vercel.app" target="_blank" rel="noopener noreferrer" className="text-zinc-300 font-medium hover:text-[#de4030] transition-colors duration-200">Tarikur Rahman</a>
         </p>
       </div>
     </footer>

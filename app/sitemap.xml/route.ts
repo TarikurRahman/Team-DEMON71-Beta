@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const baseUrl = "https://teamdemon71.info";
+const baseUrl = "https://www.teamdemon71.vercel.app";
 const pages = ["", "about", "achievements", "Acknowledgements", "contact", "project", "support", "team"];
 
 const content = `<?xml version="1.0" encoding="UTF-8"?>
